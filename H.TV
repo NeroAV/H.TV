@@ -1,0 +1,1841 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.one/img2/pervy.png" group-title="01 Популярные", Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.one/img2/rossia1.png" group-title="01 Популярные", Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.one/img2/ntv.png" group-title="01 Популярные", НТВ
+http://91.239.143.57:8080/NTV/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="http://epg.one/img2/5kanal-ru.png" group-title="01 Популярные", Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.one/img2/mir.png" group-title="01 Популярные", Мир
+http://194.158.222.36:6104
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.one/img2/tvcentr.png" group-title="01 Популярные", ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.one/img2/zvezda.png" group-title="01 Популярные", Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" tvg-logo="http://epg.one/img2/rentv-pl2.png" group-title="01 Популярные", Рен ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/tnt.png" group-title="01 Популярные", ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.one/img2/sts.png" group-title="01 Популярные", СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.one/img2/piatnica.png" group-title="01 Популярные", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.one/img2/domashny.png" group-title="01 Популярные", Домашний
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-logo="http://epg.one/img2/tv3-ru-pl2.png" group-title="01 Популярные", ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="http://epg.one/img2/tnt4.png" group-title="01 Популярные", ТНТ4
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.one/img2/super.png" group-title="01 Популярные", Суббота!
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="che" tvg-logo="http://epg.one/img2/che.png" group-title="01 Популярные" ,Че
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="http://epg.one/img2/yu.png" group-title="01 Популярные", Ю
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img2/match-tv.png" group-title="01 Популярные", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img2/rossia-24.png" group-title="01 Популярные", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="xabar" tvg-logo="http://epg.one/img2/xabar.png" group-title="01 Популярные", Хабар
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
+#EXTINF:-1 tvg-id="kazakhstan" tvg-logo="http://epg.one/img2/kazakhstan.png" group-title="01 Популярные" ,Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-logo="http://epg.one/img2/ktk-kz.png" group-title="01 Популярные" ,КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz" tvg-logo="http://epg.one/img2/pervy-kanal-eurasia-kz.png" group-title="01 Популярные", Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-id="pervy-02" tvg-logo="http://epg.one/img2/pervy.png" group-title="02 Русские", Первый канал • Русские
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="rossia1-02" tvg-logo="http://epg.one/img2/rossia1.png" group-title="02 Русские", Россия 1 • Русские
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-02" tvg-logo="http://epg.one/img2/ntv.png" group-title="02 Русские", НТВ • Русские
+http://91.239.143.57:8080/NTV/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-02" tvg-logo="http://epg.one/img2/5kanal-ru.png" group-title="02 Русские", Пятый канал • Русские
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 tvg-id="mir-02" tvg-logo="http://epg.one/img2/mir.png" group-title="02 Русские", Мир • Русские
+http://194.158.222.36:6104
+#EXTINF:-1 tvg-id="tvcentr-02" tvg-logo="http://epg.one/img2/tvcentr.png" group-title="02 Русские", ТВ Центр • Русские
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="zvezda-02" tvg-logo="http://epg.one/img2/zvezda.png" group-title="02 Русские", Звезда • Русские
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2-02" tvg-logo="http://epg.one/img2/rentv-pl2.png" group-title="02 Русские", Рен ТВ (+2) • Русские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv-02" tvg-logo="http://epg.one/img2/match-tv.png" group-title="02 Русские", Матч! • Русские
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rossia-24-02" tvg-logo="http://epg.one/img2/rossia-24.png" group-title="02 Русские", Россия 24 • Русские
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="tnt-02" tvg-logo="http://epg.one/img2/tnt.png" group-title="02 Русские", ТНТ • Русские
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 tvg-id="sts-02" tvg-logo="http://epg.one/img2/sts.png" group-title="02 Русские", СТС • Русские
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 tvg-id="piatnica-02" tvg-logo="http://epg.one/img2/piatnica.png" group-title="02 Русские", Пятница! • Русские
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="domashny-02" tvg-logo="http://epg.one/img2/domashny.png" group-title="02 Русские", Домашний • Русские
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2-02" tvg-logo="http://epg.one/img2/tv3-ru-pl2.png" group-title="02 Русские", ТВ3 (+2) • Русские
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-02" tvg-logo="http://epg.one/img2/tnt4.png" group-title="02 Русские", ТНТ4 • Русские
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="super-02" tvg-logo="http://epg.one/img2/super.png" group-title="02 Русские", Суббота! • Русские
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="che-02" tvg-logo="http://epg.one/img2/che.png" group-title="02 Русские" , Че • Русские
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="yu-02" tvg-logo="http://epg.one/img2/yu.png" group-title="02 Русские", Ю • Русские
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-logo="http://epg.one/img2/otr.png" group-title="02 Русские", ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-logo="http://epg.one/img2/31-kanal-chelyabinsk.png" group-title="02 Русские" ,31 канал (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="6tv" tvg-logo="http://epg.one/img2/6tv.png" group-title="02 Русские" ,6 ТВ
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" tvg-logo="http://epg.one/img2/7kanal-krasnoyarsk.png" group-title="02 Русские" ,7 канал (Красноярск)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="8vladik" tvg-logo="http://epg.one/img2/8vladik.png" group-title="02 Русские" ,8 канал (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="http://epg.one/img2/8kanal-krasnoyarsk.png" group-title="02 Русские" ,8 канал (Красноярский край)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-logo="http://epg.one/img2/8kanal-novosibirsk.png" group-title="02 Русские" ,8 канал (Новосибирск)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="gln24" tvg-logo="http://epg.one/img2/gln24.png" group-title="02 Русские" ,GLN 24 (Геленджик)
+http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-guberniya" tvg-logo="http://epg.one/img2/tv-guberniya.png" group-title="02 Русские", TV Губерния
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvoya-tumen" tvg-logo="http://epg.one/img2/tvoya-tumen.png" group-title="02 Русские" ,TVоя Тюмень
+http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
+#EXTINF:-1 tvg-id="abakan24" tvg-logo="http://epg.one/img2/abakan24.png" group-title="02 Русские" ,Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="aist" tvg-logo="http://epg.one/img2/aist.png" group-title="02 Русские" ,Аист
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 tvg-id="alautv" tvg-logo="http://epg.one/img2/alautv.png" group-title="02 Русские" ,Алау
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="almazny-kray" tvg-logo="http://epg.one/img2/almazny-kray.png" group-title="02 Русские" ,Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-id="arig-us-24" tvg-logo="http://epg.one/img2/arig-us-24.png" group-title="02 Русские" ,Ариг Ус 24 HD
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 tvg-id="aris24" tvg-logo="http://epg.one/img2/aris24.png" group-title="02 Русские", Арис 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=8TomaNdifa3WLyVNj4WNug&e=2070623510&scheme=https
+#EXTINF:-1 tvg-id="arktika-24" tvg-logo="http://epg.one/img2/arktika-24.png" group-title="02 Русские", Арктика 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-id="arxyz24" tvg-logo="http://epg.one/img2/arxyz24.png" group-title="02 Русские", Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="astraxan24" tvg-logo="http://epg.one/img2/astraxan24.png" group-title="02 Русские", Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-media" tvg-logo="http://epg.one/img2/atv-media.png" group-title="02 Русские" ,АТВ-Медиа
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 tvg-id="bars" tvg-logo="http://epg.one/img2/bars.png" group-title="02 Русские" ,Барс
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="http://epg.one/img2/bashkortostan24.png" group-title="02 Русские", Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="belgorod24" tvg-logo="http://epg.one/img2/belgorod24.png" group-title="02 Русские", Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.one/img2/tro.png" group-title="02 Русские", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="http://epg.one/img2/bolshaya-azia.png" group-title="02 Русские", Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="http://epg.one/img2/brianskaya-gubernia.png" group-title="02 Русские", Брянская Губерния
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-id="bst" tvg-logo="http://epg.one/img2/bst.png" group-title="02 Русские", БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="bst-bratsk" tvg-logo="http://epg.one/img2/bst-bratsk.png" group-title="02 Русские", БСТ Братск
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+#EXTINF:-1 tvg-id="btvmd" tvg-logo="http://epg.one/img2/btvmd.png" group-title="02 Русские", БТВ
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=8OAn9cqcuvVKbIaZMNy_3Q&e=2070623519&scheme=https
+#EXTINF:-1 tvg-id="buriaad" tvg-logo="http://epg.one/img2/buriaad.png" group-title="02 Русские" ,Буряад ТВ
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=N_RxQ579_pJ-dPW3WF3MSA&e=2070623492&scheme=https
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="http://epg.one/img2/v-mire-zhivotnyx-hd.png" group-title="02 Русские", В мире животных HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:-1 tvg-id="vektor-24" tvg-logo="http://epg.one/img2/vektor-24.png" group-title="02 Русские", Вектор 24
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+#EXTINF:-1 tvg-id="vestnik-nadyma" tvg-logo="http://epg.one/img2/vestnik-nadyma.png" group-title="02 Русские" ,Вестник Надыма
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="vetta24" tvg-logo="http://epg.one/img2/vetta24.png" group-title="02 Русские", Ветта 24 Пермь
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="http://epg.one/img2/vmeste-rf.png" group-title="02 Русские", Вместе-РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="volga" tvg-logo="http://epg.one/img2/volga.png" group-title="02 Русские", Волга
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 tvg-id="vremia-n" tvg-logo="http://epg.one/img2/vremia-n.png" group-title="02 Русские", Волга 24
+http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 tvg-id="volgograd-1" tvg-logo="http://epg.one/img2/volgograd-1.png" group-title="02 Русские", Волгоград 1
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="http://epg.one/img2/volgograd-24.png" group-title="02 Русские", Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="vostok-24" tvg-logo="http://epg.one/img2/vostok-24.png" group-title="02 Русские", Восток 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="vot-tv" tvg-logo="http://epg.one/img2/vot-tv.png" group-title="02 Русские" ,ВОТ ТВ
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 tvg-id="vremia" tvg-logo="http://epg.one/img2/vremia.png" group-title="02 Русские", Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="vsia-ufa" tvg-logo="http://epg.one/img2/vsia-ufa.png" group-title="02 Русские" ,Вся Уфа
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
+#EXTINF:-1 tvg-id="gorod24" tvg-logo="http://epg.one/img2/gorod24.png" group-title="02 Русские" ,Город 24
+http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-logo="http://epg.one/img2/gorodskoy-yaroslavl.png" group-title="02 Русские", Городской телеканал (Ярославль)
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="grozny" tvg-logo="http://epg.one/img2/grozny.png" group-title="02 Русские" ,Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-id="gubernia" tvg-logo="http://epg.one/img2/gubernia.png" group-title="02 Русские", Губерния
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="gubernia-33" tvg-logo="http://epg.one/img2/gubernia-33.png" group-title="02 Русские", Губерния 33
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="http://epg.one/img2/gubernia-samara.png" group-title="02 Русские", Губерния Самара
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 tvg-id="dzenzhinsk-tv" tvg-logo="http://epg.one/img2/dzenzhinsk-tv.png" group-title="02 Русские" ,Дзержинск ТВ
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 tvg-id="don-24" tvg-logo="http://epg.one/img2/don-24.png" group-title="02 Русские", Дон 24
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="ewpatorya24" tvg-logo="http://epg.one/img2/ewpatorya24.png" group-title="02 Русские" ,Евпатория 24
+http://195.26.83.96:7029/play/a009
+#EXTINF:-1 tvg-id="evrasia" tvg-logo="http://epg.one/img2/evrasia.png" group-title="02 Русские", Евразия
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=bjm5hhbqJzBnx4TJW5n94A&e=2070623515&scheme=https
+#EXTINF:-1 tvg-id="ege-tv" tvg-logo="http://epg.one/img2/ege-tv.png" group-title="02 Русские", ЕГЭ
+http://tv.streams.baikal-telecom.net:8080/RT_DOC/index.m3u8
+#EXTINF:-1 tvg-id="enisey-region" tvg-logo="http://epg.one/img2/enisey-region.png" group-title="02 Русские", Енисей регион
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="zapad-24" tvg-logo="http://epg.one/img2/zapad-24.png" group-title="02 Русские", Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" tvg-logo="http://epg.one/img2/zvezda-pl2.png" group-title="02 Русские", Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4" tvg-logo="http://epg.one/img2/zvezda-pl4.png" group-title="02 Русские", Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl7" tvg-logo="http://epg.one/img2/zvezda-pl7.png" group-title="02 Русские", Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 tvg-id="ivanovo-ot" tvg-logo="http://epg.one/img2/ivanovo-ot.png" group-title="02 Русские" ,Ивановское общественное телевидение
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:-1 tvg-id="impuls-sewera" tvg-logo="http://epg.one/img2/impuls-sewera.png" group-title="02 Русские" ,Импульс Севера
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=na5lRe1FycA0nFHRZrfcsg&e=2070623514&scheme=https
+#EXTINF:-1 tvg-id="rentv-istoki" tvg-logo="http://epg.one/img2/rentv-istoki.png" group-title="02 Русские" ,Истоки
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+#EXTINF:-1 tvg-id="kabardino-balkaria" tvg-logo="http://epg.one/img2/kabardino-balkaria.png" group-title="02 Русские" ,Кабардино-Балкария
+http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
+#EXTINF:-1 tvg-id="kavkaz24" tvg-logo="http://epg.one/img2/kavkaz24.png" group-title="02 Русские", Кавказ 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="kamcha-1" tvg-logo="http://epg.one/img2/kamcha-1.png" group-title="02 Русские", Камчатка 1
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:-1 tvg-id="kaskad24" tvg-logo="http://epg.one/img2/kaskad24.png" group-title="02 Русские" ,Каскад 24
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 tvg-id="katun-24" tvg-logo="http://epg.one/img2/katun-24.png" group-title="02 Русские" ,Катунь 24
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 tvg-id="kolyma-plus" tvg-logo="http://epg.one/img2/kolyma-plus.png" group-title="02 Русские" ,Колыма-Плюс
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="http://epg.one/img2/kongresstv.png" group-title="02 Русские", Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-id="kotlastv" tvg-logo="http://epg.one/img2/kotlastv.png" group-title="02 Русские" ,Котлас ТВ
+http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="http://epg.one/img2/krasnaya-linia.png" group-title="02 Русские", Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="krasnodar" tvg-logo="http://epg.one/img2/krasnodar.png" group-title="02 Русские", Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="krym24" tvg-logo="http://epg.one/img2/krym24.png" group-title="02 Русские" ,Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="ktv-luch" tvg-logo="http://epg.one/img2/ktv-luch.png" group-title="02 Русские" ,КТВ-Луч (Сызрань)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="http://epg.one/img2/kuban-24.png" group-title="02 Русские", Кубань 24
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
+#EXTINF:-1 tvg-id="legendarny24" tvg-logo="http://epg.one/img2/legendarny24.png" group-title="02 Русские", Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-id="lipeck24" tvg-logo="http://epg.one/img2/lipeck24.png" group-title="02 Русские" ,Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="http://epg.one/img2/lipeckoe-vremia.png" group-title="02 Русские", Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+#EXTINF:-1 tvg-id="mamonttv" tvg-logo="http://epg.one/img2/mamonttv.png" group-title="02 Русские" ,Мамонт ТВ
+http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_MAMONT/variant.m3u8
+#EXTINF:-1 tvg-id="millet" tvg-logo="http://epg.one/img2/millet.png" group-title="02 Русские" ,Миллет
+https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1 tvg-id="mir-pl2" tvg-logo="http://epg.one/img2/mir-pl2.png" group-title="02 Русские", Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl4" tvg-logo="http://epg.one/img2/mir-pl4.png" group-title="02 Русские", Мир (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl7" tvg-logo="http://epg.one/img2/mir-pl7.png" group-title="02 Русские", Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 tvg-id="mir-belogoria" tvg-logo="http://epg.one/img2/mir-belogoria.png" group-title="02 Русские", Мир Белогорья
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 tvg-id="mitv-ustilimsk" tvg-logo="http://epg.one/img2/mitv-ustilimsk.png" group-title="02 Русские" ,МИТВ (Усть-Илимск)
+http://193.33.233.109:9000/tv
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="http://epg.one/img2/mordovia-24.png" group-title="02 Русские", Мордовия 24
+http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://epg.one/img2/mtv-volgograd.png" group-title="02 Русские", МТВ Волгоград
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="muravlenko24" tvg-logo="http://epg.one/img2/muravlenko24.png" group-title="02 Русские" ,Муравленко 24
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:-1 tvg-id="muromtv" tvg-logo="http://epg.one/img2/muromtv.png" group-title="02 Русские" ,Муром ТВ
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1 tvg-id="my-i-gorod" tvg-logo="http://epg.one/img2/my-i-gorod.png" group-title="02 Русские", Мы и город
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:-1 tvg-id="metr" tvg-logo="http://epg.one/img2/metr.png" group-title="02 Русские" ,МЭТР
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 tvg-id="nash-dom" tvg-logo="http://epg.one/img2/nash-dom.png" group-title="02 Русские" ,Наш дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 tvg-id="nashi-goroda" tvg-logo="http://epg.one/img2/nashi-goroda.png" group-title="02 Русские" ,Наши Города (Когалым)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="http://epg.one/img2/neizvestnaya-rosia.png" group-title="02 Русские", Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="nn-24" tvg-logo="http://epg.one/img2/nn-24.png" group-title="02 Русские", Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 tvg-id="nika-tv" tvg-logo="http://epg.one/img2/nika-tv.png" group-title="02 Русские" ,Ника ТВ
+http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 tvg-id="nntv" tvg-logo="http://epg.one/img2/nntv.png" group-title="02 Русские" ,ННТВ
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-logo="http://epg.one/img2/novgorodskoe-obl-tv.png" group-title="02 Русские" ,Новгородское Областное телевидение
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-logo="http://epg.one/img2/novy-vek-tambov.png" group-title="02 Русские", Новый век (Тамбов)
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="http://epg.one/img2/ntv-pl1.png" group-title="02 Русские", НТВ (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="http://epg.one/img2/ntv-pl2.png" group-title="02 Русские", НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="http://epg.one/img2/ntv-pl4.png" group-title="02 Русские", НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-logo="http://epg.one/img2/ntv-pl7.png" group-title="02 Русские", НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="http://epg.one/img2/ntv-mir.png" group-title="02 Русские", НТВ-Мир
+http://87.76.32.36:8001/ntvmir
+#EXTINF:-1 tvg-id="ntm" tvg-logo="http://epg.one/img2/ntm.png" group-title="02 Русские" ,НТМ
+http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-logo="http://epg.one/img2/ntrk-ingushetia.png" group-title="02 Русские" ,НТРК Ингушетия
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="http://epg.one/img2/nts-irkutsk.png" group-title="02 Русские", НТС (Иркутск)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 tvg-id="nts-sevastopol" tvg-logo="http://epg.one/img2/nts-sevastopol.png" group-title="02 Русские", НТС (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nts-irbit" tvg-logo="http://epg.one/img2/nts-irbit.png" group-title="02 Русские", НТС-Ирбит
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="omsk-tv" tvg-logo="http://epg.one/img2/omsk-tv.png" group-title="02 Русские" ,Омск ТВ
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
+#EXTINF:-1 tvg-id="ont-by" tvg-logo="http://epg.one/img2/ont-by.png" group-title="02 Русские", ОНТ
+http://194.158.222.36:6102
+#EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-logo="http://epg.one/img2/ort-planeta-orenburg.png" group-title="02 Русские" ,ОРТ-Планета (Оренбург)
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 tvg-id="osetia-iryston" tvg-logo="http://epg.one/img2/osetia-iryston.png" group-title="02 Русские" ,Осетия-Ирыстон
+https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="otv-eburg" tvg-logo="http://epg.one/img2/otv-eburg.png" group-title="02 Русские", ОТВ Екатеринбург
+https://vd.obltv.ru/watch/air_sd.m3u8
+#EXTINF:-1 tvg-id="otv-primorie" tvg-logo="http://epg.one/img2/otv-primorie.png" group-title="02 Русские", ОТВ Приморье
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="otv-saxalin" tvg-logo="http://epg.one/img2/otv-saxalin.png" group-title="02 Русские", ОТВ Сахалин
+http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 tvg-id="otv-chelyabinsk" tvg-logo="http://epg.one/img2/otv-chelyabinsk.png" group-title="02 Русские", ОТВ Челябинск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="ots" tvg-logo="http://epg.one/img2/ots.png" group-title="02 Русские" ,ОТС
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1 tvg-id="pervouralsk-tv" tvg-logo="http://epg.one/img2/pervouralsk-tv.png" group-title="02 Русские" ,Первоуральск ТВ
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" tvg-logo="http://epg.one/img2/pervy-gorodskoy-kirov.png" group-title="02 Русские" ,Первый городской (Киров)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" tvg-logo="http://epg.one/img2/pervy-gorodskoy-omsk.png" group-title="02 Русские" ,Первый городской (Омск)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="http://epg.one/img2/pervy-pl2.png" group-title="02 Русские", Первый канал +2
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="http://epg.one/img2/pervy-krymsky.png" group-title="02 Русские", Первый крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-logo="http://epg.one/img2/pervy-oblastnoy-orel.png" group-title="02 Русские" ,Первый областной Орел
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pskovsky" tvg-logo="http://epg.one/img2/pervy-pskovsky.png" group-title="02 Русские" ,Первый Псковский
+http://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="http://epg.one/img2/pervy-rostovsky.png" group-title="02 Русские" ,Первый Ростовский
+https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-sevastopolsky" tvg-logo="http://epg.one/img2/pervy-sevastopolsky.png" group-title="02 Русские" ,Первый Севастопольский
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-tulsky" tvg-logo="http://epg.one/img2/pervy-tulsky.png" group-title="02 Русские" ,Первый Тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="http://epg.one/img2/pervy-yaroslavsky.png" group-title="02 Русские" ,Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="pinsk-tv" tvg-logo="http://epg.one/img2/pinsk-tv.png" group-title="02 Русские" ,Пинск ТВ
+http://178.124.207.1:1780/tvp
+#EXTINF:-1 tvg-id="prim24" tvg-logo="http://epg.one/img2/prim24.png" group-title="02 Русские" ,Прим 24
+http://flussonic2.podryad.net/prim24/index.m3u8
+#EXTINF:-1 tvg-id="prima" tvg-logo="http://epg.one/img2/prima.png" group-title="02 Русские", Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="http://epg.one/img2/prnk-tv.png" group-title="02 Русские", ПРНК
+http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
+#EXTINF:-1 tvg-id="pro-zhizn" tvg-logo="http://epg.one/img2/pro-zhizn.png" group-title="02 Русские" ,Про жизнь
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" tvg-logo="http://epg.one/img2/5kanal-ru-pl2.png" group-title="02 Русские", Пятый канал +2
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_5TV_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="http://epg.one/img2/ramenskoe-tv.png" group-title="02 Русские" ,Раменское ТВ
+https://e10-ll.facecast.net/rtv/1.m3u8
+#EXTINF:-1 tvg-id="rgvk-dagestan" tvg-logo="http://epg.one/img2/rgvk-dagestan.png" group-title="02 Русские", РГВК Дагестан
+http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:-1 tvg-id="region29" tvg-logo="http://epg.one/img2/region29.png" group-title="02 Русские", Регион 29
+http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 tvg-id="region67" tvg-logo="http://epg.one/img2/region67.png" group-title="02 Русские" ,Регион 67
+http://212.3.155.126:8181/udp/233.67.67.177:5510
+#EXTINF:-1 tvg-id="rentv-pl4" tvg-logo="http://epg.one/img2/rentv-pl4.png" group-title="02 Русские", Рен ТВ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-pl7" tvg-logo="http://epg.one/img2/rentv-pl7.png" group-title="02 Русские", Рен ТВ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="rifey-tv" tvg-logo="http://epg.one/img2/rifey-tv.png" group-title="02 Русские" ,Рифей-ТВ
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7e16kFowncLriG9eElNY7g&e=2070623512&scheme=https
+#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="http://epg.one/img2/rossia1-pl1.png" group-title="02 Русские", Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="http://epg.one/img2/rossia1-pl2.png" group-title="02 Русские", Россия 1 (+2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="http://epg.one/img2/rossia1-pl3.png" group-title="02 Русские", Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="http://epg.one/img2/rossia1-pl4.png" group-title="02 Русские", Россия 1 (+4)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="http://epg.one/img2/rossia1-pl5.png" group-title="02 Русские", Россия 1 (+5)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="http://epg.one/img2/rossia1-pl6.png" group-title="02 Русские", Россия 1 (+6)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="http://epg.one/img2/rossia1-pl7.png" group-title="02 Русские", Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="http://epg.one/img2/rossia1-pl8.png" group-title="02 Русские", Россия 1 (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="http://epg.one/img2/rossia1-pl9.png" group-title="02 Русские", Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-m1" tvg-logo="http://epg.one/img2/rossia1-m1.png" group-title="02 Русские", Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="zabajkajkalje" tvg-logo="http://epg.one/img2/zabajkajkalje.png" group-title="02 Русские" ,РТК Забайкалье
+http://stream.zrtk.ru/zrtk.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="http://epg.one/img2/rtr-planeta-azia.png" group-title="02 Русские" ,РТР-Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1 tvg-id="rts-abakan" tvg-logo="http://epg.one/img2/rts-abakan.png" group-title="02 Русские" ,РТС - Абакан
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1 tvg-id="russky-sever" tvg-logo="http://epg.one/img2/russky-sever.png" group-title="02 Русские" ,Русский Север
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="rusj" tvg-logo="http://epg.one/img2/rusj.png" group-title="02 Русские" ,Русь Кострома
+http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+#EXTINF:-1 tvg-id="rybinsk40" tvg-logo="http://epg.one/img2/rybinsk40.png" group-title="02 Русские" ,Рыбинск-40
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 tvg-id="s1-surgut" tvg-logo="http://epg.one/img2/s1-surgut.png" group-title="02 Русские", С1 Сургут
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 tvg-id="salam" tvg-logo="http://epg.one/img2/salam.png" group-title="02 Русские", Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="samara24" tvg-logo="http://epg.one/img2/samara24.png" group-title="02 Русские" ,Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="samotlor-nv" tvg-logo="http://epg.one/img2/samotlor-nv.png" group-title="02 Русские" ,Самотлор (Нижневартовск)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+#EXTINF:-1 tvg-id="sampo-tv" tvg-logo="http://epg.one/img2/sampo-tv.png" group-title="02 Русские" ,Сампо ТВ
+http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="http://epg.one/img2/sankt-peterburg.png" group-title="02 Русские", Санкт-Петербург
+https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
+#EXTINF:-1 tvg-id="saratov-24" tvg-logo="http://epg.one/img2/saratov-24.png" group-title="02 Русские" ,Саратов 24
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 tvg-id="sarov-24" tvg-logo="http://epg.one/img2/sarov-24.png" group-title="02 Русские", Саров 24
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="saxa" tvg-logo="http://epg.one/img2/saxa.png" group-title="02 Русские" ,Саха
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="http://epg.one/img2/svoyo-tv-stavropol.png" group-title="02 Русские", Своё ТВ Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-id="sever" tvg-logo="http://epg.one/img2/sever.png" group-title="02 Русские", Север
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="sibir24" tvg-logo="http://epg.one/img2/sibir24.png" group-title="02 Русские" ,Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="simfer24" tvg-logo="http://epg.one/img2/simfer24.png" group-title="02 Русские" ,Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="http://epg.one/img2/smaylik-tv.png" group-title="02 Русские", Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=OGiYIzCaQI5ASOW4gqoRyw&e=2070623525&scheme=https
+#EXTINF:-1 tvg-id="sreda" tvg-logo="http://epg.one/img2/sreda.png" group-title="02 Русские" ,Среда (Каспийск)
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
+#EXTINF:-1 tvg-id="stv24" tvg-logo="http://epg.one/img2/stv24.png" group-title="02 Русские" ,СТВ 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="http://epg.one/img2/stv-by.png" group-title="02 Русские" ,СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="surgut-24" tvg-logo="http://epg.one/img2/surgut-24.png" group-title="02 Русские" ,Сургут 24
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 tvg-id="texno-24" tvg-logo="http://epg.one/img2/texno-24.png" group-title="02 Русские", Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 tvg-id="tatarstan24" tvg-logo="http://epg.one/img2/tatarstan24.png" group-title="02 Русские" ,Татарстан 24
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl2" tvg-logo="http://epg.one/img2/tvcentr-pl2.png" group-title="02 Русские", ТВ Центр +2
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="tv21plus" tvg-logo="http://epg.one/img2/tv21plus.png" group-title="02 Русские" ,ТВ-21+
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 tvg-id="tv7-abakan" tvg-logo="http://epg.one/img2/tv7-abakan.png" group-title="02 Русские" ,ТВ-7 Абакан
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="tv-in" tvg-logo="http://epg.one/img2/tv-in.png" group-title="02 Русские", ТВ-ИН (Магнитогорск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl4" tvg-logo="http://epg.one/img2/tv3-ru-pl4.png" group-title="02 Русские", ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl7" tvg-logo="http://epg.one/img2/tv3-ru-pl7.png" group-title="02 Русские", ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 tvg-id="tverskoy-prospekt" tvg-logo="http://epg.one/img2/tverskoy-prospekt.png" group-title="02 Русские" ,Тверской проспект
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 tvg-id="tdk-42" tvg-logo="http://epg.one/img2/tdk-42.png" group-title="02 Русские" ,ТДК 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="telemiks" tvg-logo="http://epg.one/img2/telemiks.png" group-title="02 Русские" ,Телемикс
+http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+#EXTINF:-1 tvg-id="teotv" tvg-logo="http://epg.one/img2/teotv.png" group-title="02 Русские" ,Тео ТВ
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 tvg-id="tivikom" tvg-logo="http://epg.one/img2/tivikom.png" group-title="02 Русские" ,Тивиком
+https://stream.trafjam.ru/tvcom/studio/tracks-v1a1/rewind-43200.m3u8
+#EXTINF:-1 tvg-id="tk-variant" tvg-logo="http://epg.one/img2/tk-variant.png" group-title="02 Русские" ,ТК Вариант
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+#EXTINF:-1 tvg-id="trk-ryazan" tvg-logo="http://epg.one/img2/trk-ryazan.png" group-title="02 Русские", ТКР Рязань
+http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:-1 tvg-id="tolyatti24" tvg-logo="http://epg.one/img2/tolyatti24.png" group-title="02 Русские" ,Тольятти 24
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 tvg-id="tomskoe-vremia" tvg-logo="http://epg.one/img2/tomskoe-vremia.png" group-title="02 Русские" ,Томское время
+https://old.tomsk-time.ru/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="tooku" tvg-logo="http://epg.one/img2/tooku.png" group-title="02 Русские", Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="http://epg.one/img2/hd-life.png" group-title="02 Русские", Точка.РФ
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:-1 tvg-id="trk-yugansk" tvg-logo="http://epg.one/img2/trk-yugansk.png" group-title="02 Русские" ,ТРК Юганск
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+#EXTINF:-1 tvg-id="tst-cheremchovo" tvg-logo="http://epg.one/img2/tst-cheremchovo.png" group-title="02 Русские" ,ТСТ (Черемхово)
+http://5.183.155.8:88/stream.m3u8
+#EXTINF:-1 tvg-id="tuva24" tvg-logo="http://epg.one/img2/tuva24.png" group-title="02 Русские" ,Тува 24
+http://tv.tuva.ru/tuva24/index.m3u8
+#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-logo="http://epg.one/img2/tumenskoe-vremia.png" group-title="02 Русские", Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="udmurtia" tvg-logo="http://epg.one/img2/udmurtia.png" group-title="02 Русские" ,Удмуртия
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 tvg-id="ulianovskaya-pravda" tvg-logo="http://epg.one/img2/ulianovskaya-pravda.png" group-title="02 Русские" ,Ульяновская правда
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:-1 tvg-id="detsky" tvg-logo="http://epg.one/img2/detsky.png" group-title="02 Русские", Уникум
+http://217.114.191.150/Solnce/index.m3u8
+#EXTINF:-1 tvg-id="uchaly-tv" tvg-logo="http://epg.one/img2/uchaly-tv.png" group-title="02 Русские" ,Учалы ТВ
+http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 tvg-id="chavash-en" tvg-logo="http://epg.one/img2/chavash-en.png" group-title="02 Русские" ,Чаваш ЕН
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="http://epg.one/img2/chestny-detektiv.png" group-title="02 Русские", Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="efir24-relax" tvg-logo="http://epg.one/img2/efir24-relax.png" group-title="02 Русские" ,Эфир
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 tvg-id="echotv24" tvg-logo="http://epg.one/img2/echotv24.png" group-title="02 Русские" ,Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-id="yugra" tvg-logo="http://epg.one/img2/yugra.png" group-title="02 Русские", Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="yurgan" tvg-logo="http://epg.one/img2/yurgan.png" group-title="02 Русские" ,Юрган
+http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 tvg-id="utv-cheboxary" tvg-logo="http://epg.one/img2/utv-cheboxary.png" group-title="02 Русские" ,ЮТВ Чебоксары
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 tvg-id="yakutia24" tvg-logo="http://epg.one/img2/yakutia24.png" group-title="02 Русские" ,Якутия 24
+http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1 tvg-id="yamal-region" tvg-logo="http://epg.one/img2/yamal-region.png" group-title="02 Русские" ,Ямал-Регион
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 tvg-id="kazakhstan-03" tvg-logo="http://epg.one/img2/kazakhstan.png" group-title="03 Казахстан" , Qazaqstan • KZ
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar-03" tvg-logo="http://epg.one/img2/xabar.png" group-title="03 Казахстан", Хабар • KZ
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz-03" tvg-logo="http://epg.one/img2/pervy-kanal-eurasia-kz.png" group-title="03 Казахстан", Первый канал Евразия • KZ
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-id="ktk-kz-03" tvg-logo="http://epg.one/img2/ktk-kz.png" group-title="03 Казахстан" , КТК • KZ
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ntk-kz" tvg-logo="http://epg.one/img2/ntk-kz.png" group-title="03 Казахстан" ,НТК
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 tvg-id="atameken-business" tvg-logo="http://epg.one/img2/atameken-business.png" group-title="03 Казахстан" ,Atameken Business
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="evrasia-03" tvg-logo="http://epg.one/img2/evrasia.png" group-title="03 Казахстан", Евразия • KZ
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=bjm5hhbqJzBnx4TJW5n94A&e=2070623515&scheme=https
+#EXTINF:-1 tvg-id="balapan" tvg-logo="http://epg.one/img2/balapan.png" group-title="03 Казахстан" ,Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="shayantv" tvg-logo="http://epg.one/img2/shayantv.png" group-title="03 Казахстан" ,Шаян ТВ
+http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 tvg-id="tamyr" tvg-logo="http://epg.one/img2/tamyr.png" group-title="03 Казахстан" ,Тамыр
+http://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="match-tv-04" tvg-logo="http://epg.one/img2/match-tv.png" group-title="04 Спорт", Матч! • Спорт
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="http://epg.one/img2/setanta1-ge.png" group-title="04 Спорт" ,Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="http://epg.one/img2/setanta2-ge.png" group-title="04 Спорт" ,Setanta Sports 2 Georgia
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img2/viasat-sport.png" group-title="04 Спорт", viju+ Sport
+http://195.26.83.96:7013/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="start" tvg-logo="http://epg.one/img2/start.png" group-title="04 Спорт", Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:-1 tvg-id="xokkejny" tvg-logo="http://epg.one/img2/xokkejny.png" group-title="04 Спорт", Хоккей ТВ
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="http://epg.one/img2/nba-tv.png" group-title="04 Спорт" ,NBA TV
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=ZTuuLreVPNc6Q8UbzW60dw&e=2070623535&scheme=https
+#EXTINF:-1 tvg-id="digisport1" tvg-logo="http://epg.one/img2/digisport1.png" group-title="04 Спорт" ,DIGI Sport 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 tvg-id="digisport2" tvg-logo="http://epg.one/img2/digisport2.png" group-title="04 Спорт" ,DIGI Sport 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+#EXTINF:-1 tvg-id="digisport3" tvg-logo="http://epg.one/img2/digisport3.png" group-title="04 Спорт" ,DIGI Sport 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
+#EXTINF:-1 tvg-id="digisport4" tvg-logo="http://epg.one/img2/digisport4.png" group-title="04 Спорт" ,DIGI Sport 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+#EXTINF:-1 tvg-id="fuel-tv-hd" tvg-logo="http://epg.one/img2/fuel-tv-hd.png" group-title="04 Спорт" ,Fuel TV HD
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="inter-it" tvg-logo="http://epg.one/img2/inter-it.png" group-title="04 Спорт" ,Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-id="one-il" tvg-logo="http://epg.one/img2/one-il.png" group-title="04 Спорт" ,ONE
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="real-madrid-tv" tvg-logo="http://epg.one/img2/real-madrid-tv.png" group-title="04 Спорт" ,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="http://epg.one/img2/russky-ekstrim.png" group-title="04 Спорт" ,Russian Extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-id="uzsport" tvg-logo="http://epg.one/img2/uzsport.png" group-title="04 Спорт" ,UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="http://epg.one/img2/belarus5.png" group-title="04 Спорт", Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="http://epg.one/img2/belarus5-inet.png" group-title="04 Спорт", Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="http://epg.one/img2/voleybol.png" group-title="04 Спорт", Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Z292Ky2toEQuefUkRG6EOg&e=2070623537&scheme=https
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img2/konny-mir.png" group-title="04 Спорт", Конный мир
+https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="http://epg.one/img2/okko-sport-2.png" group-title="04 Спорт", Окко.Прайм Спорт
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 tvg-id="start-basket" tvg-logo="http://epg.one/img2/start-basket.png" group-title="04 Спорт", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 tvg-id="start-triumf" tvg-logo="http://epg.one/img2/start-triumf.png" group-title="04 Спорт", Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="http://epg.one/img2/sportivny.png" group-title="04 Спорт" ,ТВ Спорт
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rossia-24-05" tvg-logo="http://epg.one/img2/rossia-24.png" group-title="05 Новости", Россия 24 • Новости
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="atameken-business-05" tvg-logo="http://epg.one/img2/atameken-business.png" group-title="05 Новости" , Atameken Business • Новости
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.one/img2/rbk.png" group-title="05 Новости", РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.one/img2/izvestia.png" group-title="05 Новости", Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.one/img2/mir-24.png" group-title="05 Новости", Мир 24
+http://194.143.148.28:8080/Mir24/mpegts
+#EXTINF:-1 tvg-id="360-news" tvg-logo="http://epg.one/img2/360-news.png" group-title="05 Новости", 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://epg.one/img2/bloomberg.png" group-title="05 Новости", Bloomberg
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="http://epg.one/img2/cnn.png" group-title="05 Новости", CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="france-24" tvg-logo="http://epg.one/img2/france-24.png" group-title="05 Новости" ,France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="http://epg.one/img2/france24-en.png" group-title="05 Новости", France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="http://epg.one/img2/rt-news.png" group-title="05 Новости" ,RT News
+http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="http://epg.one/img2/belarus24.png" group-title="05 Новости" ,Беларусь 24
+http://178.124.179.122:8080/Belarus24/index.m3u8
+#EXTINF:-1 tvg-id="krik-tv" tvg-logo="http://epg.one/img2/krik-tv.png" group-title="05 Новости" ,Крик ТВ
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="http://epg.one/img2/ldpr-tv.png" group-title="05 Новости", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="lot-47" tvg-logo="http://epg.one/img2/lot-47.png" group-title="05 Новости", Лен ТВ 24
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="http://epg.one/img2/pervy-info-by.png" group-title="05 Новости", Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="http://epg.one/img2/solovjinypomiot.png" group-title="05 Новости", Соловьев.Live
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="tnt-06" tvg-logo="http://epg.one/img2/tnt.png" group-title="06 Развлекательные", ТНТ • Развл
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 tvg-id="sts-06" tvg-logo="http://epg.one/img2/sts.png" group-title="06 Развлекательные", СТС • Развл
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 tvg-id="piatnica-06" tvg-logo="http://epg.one/img2/piatnica.png" group-title="06 Развлекательные", Пятница! • Развл
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="domashny-06" tvg-logo="http://epg.one/img2/domashny.png" group-title="06 Развлекательные", Домашний • Развл
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2-06" tvg-logo="http://epg.one/img2/tv3-ru-pl2.png" group-title="06 Развлекательные", ТВ3 (+2) • Развл
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-06" tvg-logo="http://epg.one/img2/tnt4.png" group-title="06 Развлекательные", ТНТ4 • Развл
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="super-06" tvg-logo="http://epg.one/img2/super.png" group-title="06 Развлекательные", Суббота! • Развл
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="che-06" tvg-logo="http://epg.one/img2/che.png" group-title="06 Развлекательные" , Че • Развл
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="yu-06" tvg-logo="http://epg.one/img2/yu.png" group-title="06 Развлекательные", Ю • Развл
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="http://epg.one/img2/8kanal-ru.png" group-title="06 Развлекательные" ,8 канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="http://epg.one/img2/8kanal-eu.png" group-title="06 Развлекательные" ,8 канал International
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-id="gametoon" tvg-logo="http://epg.one/img2/gametoon.png" group-title="06 Развлекательные" ,Gametoon
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/5049/index.m3u8
+#EXTINF:-1 tvg-id="hit-tv" tvg-logo="http://epg.one/img2/hit-tv.png" group-title="06 Развлекательные" ,HIT TV
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 tvg-id="rutube-tv" tvg-logo="http://epg.one/img2/rutube-tv.png" group-title="06 Развлекательные" ,RUTUBE TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+#EXTINF:-1 tvg-id="tv-rus" tvg-logo="http://epg.one/img2/tv-rus.png" group-title="06 Развлекательные" ,TV RUS
+http://api.alpaca.t62a.com/hls/9106/stream0.m3u8
+#EXTINF:-1 tvg-id="belarus2" tvg-logo="http://epg.one/img2/belarus2.png" group-title="06 Развлекательные", Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="http://epg.one/img2/voprosy-i-otvety.png" group-title="06 Развлекательные", Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="deviatka" tvg-logo="http://epg.one/img2/deviatka.png" group-title="06 Развлекательные", Девятка ТВ
+http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="domashny-pl2" tvg-logo="http://epg.one/img2/domashny-pl2.png" group-title="06 Развлекательные", Домашний (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl4" tvg-logo="http://epg.one/img2/domashny-pl4.png" group-title="06 Развлекательные", Домашний (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl7" tvg-logo="http://epg.one/img2/domashny-pl7.png" group-title="06 Развлекательные", Домашний (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="http://epg.one/img2/domashny-int.png" group-title="06 Развлекательные", Домашний International
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-logo="http://epg.one/img2/kaleydoskop-tv.png" group-title="06 Развлекательные", Калейдоскоп ТВ
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" tvg-logo="http://epg.one/img2/novoe-televidenie.png" group-title="06 Развлекательные" ,Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.one/img2/ntv-pravo.png" group-title="06 Развлекательные", НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="http://epg.one/img2/perec-int.png" group-title="06 Развлекательные", Перец Int
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="http://epg.one/img2/prodvizhenie.png" group-title="06 Развлекательные", Продвижение
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2" tvg-logo="http://epg.one/img2/piatnica-pl2.png" group-title="06 Развлекательные", Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4" tvg-logo="http://epg.one/img2/piatnica-pl4.png" group-title="06 Развлекательные", Пятница! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl7" tvg-logo="http://epg.one/img2/piatnica-pl7.png" group-title="06 Развлекательные", Пятница! (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="http://epg.one/img2/piatnica-int.png" group-title="06 Развлекательные", Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="http://epg.one/img2/sarafan.png" group-title="06 Развлекательные", Сарафан
+http://176.118.197.125/Sarafan/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="http://epg.one/img2/smotrim-100-prazdnik.png" group-title="06 Развлекательные" ,Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 tvg-id="strk" tvg-logo="http://epg.one/img2/strk.png" group-title="06 Развлекательные", СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="sts-pl2" tvg-logo="http://epg.one/img2/sts-pl2.png" group-title="06 Развлекательные", СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl4" tvg-logo="http://epg.one/img2/sts-pl4.png" group-title="06 Развлекательные", СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl7" tvg-logo="http://epg.one/img2/sts-pl7.png" group-title="06 Развлекательные", СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="http://epg.one/img2/sts-int.png" group-title="06 Развлекательные", СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="http://epg.one/img2/sts-love.png" group-title="06 Развлекательные", СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl2" tvg-logo="http://epg.one/img2/sts-love-pl2.png" group-title="06 Развлекательные", СТС Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl4" tvg-logo="http://epg.one/img2/sts-love-pl4.png" group-title="06 Развлекательные", СТС Love (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 tvg-id="tayna" tvg-logo="http://epg.one/img2/tayna.png" group-title="06 Развлекательные" ,Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="http://epg.one/img2/tvoyo-tv-hd.png" group-title="06 Развлекательные" ,Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="teatr" tvg-logo="http://epg.one/img2/teatr.png" group-title="06 Развлекательные", Театр
+http://176.118.197.101/Teatr/index.m3u8
+#EXTINF:-1 tvg-id="teledom" tvg-logo="http://epg.one/img2/teledom.png" group-title="06 Развлекательные", Теледом
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="telekafe" tvg-logo="http://epg.one/img2/telekafe.png" group-title="06 Развлекательные" ,Телекафе
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="http://epg.one/img2/tnt-pl2.png" group-title="06 Развлекательные", ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" tvg-logo="http://epg.one/img2/tnt-pl4.png" group-title="06 Развлекательные", ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" tvg-logo="http://epg.one/img2/tnt-pl7.png" group-title="06 Развлекательные", ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2" tvg-logo="http://epg.one/img2/tnt4-pl2.png" group-title="06 Развлекательные", ТНТ4 (+2)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl4" tvg-logo="http://epg.one/img2/tnt4-pl4.png" group-title="06 Развлекательные", ТНТ4 (+4)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl7" tvg-logo="http://epg.one/img2/tnt4-pl7.png" group-title="06 Развлекательные", ТНТ4 (+7)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-international" tvg-logo="http://epg.one/img2/tnt4-international.png" group-title="06 Развлекательные", ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-id="tolk" tvg-logo="http://epg.one/img2/tolk.png" group-title="06 Развлекательные", Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="domkino" tvg-logo="http://epg.one/img2/domkino.png" group-title="07 Фильмы и сериалы", Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="http://epg.one/img2/tv1000.png" group-title="07 Фильмы и сериалы", viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="http://epg.one/img2/tv1000-russkoe-kino.png" group-title="07 Фильмы и сериалы" ,viju TV1000 Русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://epg.one/img2/kino-tv.png" group-title="07 Фильмы и сериалы" ,КиноТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://epg.one/img2/russky-roman.png" group-title="07 Фильмы и сериалы", Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="http://epg.one/img2/ntv-serial.png" group-title="07 Фильмы и сериалы", НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://epg.one/img2/sony-turbo.png" group-title="07 Фильмы и сериалы", .black
+http://176.118.197.125/Black/index.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="http://epg.one/img2/bollywood-hd.png" group-title="07 Фильмы и сериалы", Bollywood
+https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="http://epg.one/img2/cinema-ru.png" group-title="07 Фильмы и сериалы", Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img2/flixsnip.png" group-title="07 Фильмы и сериалы", FlixSnip
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-logo="http://epg.one/img2/fox.png" group-title="07 Фильмы и сериалы", FX
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="http://epg.one/img2/foxlife.png" group-title="07 Фильмы и сериалы", FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 tvg-id="hollywood" tvg-logo="http://epg.one/img2/hollywood.png" group-title="07 Фильмы и сериалы", Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="horrortv" tvg-logo="http://epg.one/img2/horrortv.png" group-title="07 Фильмы и сериалы", Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-id="kino-24" tvg-logo="http://epg.one/img2/kino-24.png" group-title="07 Фильмы и сериалы", Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="http://epg.one/img2/sony-tv.png" group-title="07 Фильмы и сериалы", .red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1 tvg-id="sony-scifi" tvg-logo="http://epg.one/img2/sony-scifi.png" group-title="07 Фильмы и сериалы", .sci-fi
+http://86.57.209.210/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-id="shot-tv" tvg-logo="http://epg.one/img2/shot-tv.png" group-title="07 Фильмы и сериалы", Shot TV
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="start-air" tvg-logo="http://epg.one/img2/start-air.png" group-title="07 Фильмы и сериалы", Start Air
+http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://epg.one/img2/tvxxi.png" group-title="07 Фильмы и сериалы", TV XXI
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://epg.one/img2/tv1000-action.png" group-title="07 Фильмы и сериалы", viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="http://epg.one/img2/vip-comedy.png" group-title="07 Фильмы и сериалы", viju+ Comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="http://epg.one/img2/vip-megahit.png" group-title="07 Фильмы и сериалы", viju+ Megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="http://epg.one/img2/vip-premiere.png" group-title="07 Фильмы и сериалы", viju+ Premiere
+https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="http://epg.one/img2/evrokino.png" group-title="07 Фильмы и сериалы", Еврокино
+http://87.120.142.11:18000/STSLove
+#EXTINF:-1 tvg-id="kino1-tviksel" tvg-logo="http://epg.one/img2/kino1-tviksel.png" group-title="07 Фильмы и сериалы" ,Кино 1
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel-07" tvg-logo="http://epg.one/img2/kino1int-tviksel.png" group-title="07 Фильмы и сериалы" , Кино 1 International • Кино
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="kinosezon" tvg-logo="http://epg.one/img2/kinosezon.png" group-title="07 Фильмы и сериалы" ,КиноСезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="http://epg.one/img2/lubimoe-kino.png" group-title="07 Фильмы и сериалы", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="http://epg.one/img2/mir-seriala.png" group-title="07 Фильмы и сериалы", Мир сериала
+http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img2/nst.png" group-title="07 Фильмы и сериалы", НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-logo="http://epg.one/img2/patriot.png" group-title="07 Фильмы и сериалы", Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.one/img2/pobeda.png" group-title="07 Фильмы и сериалы", Победа
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="pro100" tvg-logo="http://epg.one/img2/pro100.png" group-title="07 Фильмы и сериалы" ,Про100 ТВ
+http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="http://epg.one/img2/retro-tv.png" group-title="07 Фильмы и сериалы", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="http://epg.one/img2/russky-illuzion.png" group-title="07 Фильмы и сериалы", Русский иллюзион
+http://158.101.222.193:88/georgia_play.php?id=rusilluzion
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="http://epg.one/img2/sapfir.png" group-title="07 Фильмы и сериалы", Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-logo="http://epg.one/img2/cityedem-kinoazia.png" group-title="07 Фильмы и сериалы" ,Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="http://epg.one/img2/cityedem-kinoklas.png" group-title="07 Фильмы и сериалы" ,Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinomist" tvg-logo="http://epg.one/img2/cityedem-kinomist.png" group-title="07 Фильмы и сериалы" ,Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoact" tvg-logo="http://epg.one/img2/cityedem-kinoact.png" group-title="07 Фильмы и сериалы" ,Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="http://epg.one/img2/smotrim-100-lubov.png" group-title="07 Фильмы и сериалы" ,Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="http://epg.one/img2/smotrim-100-muzhskoe.png" group-title="07 Фильмы и сериалы" ,Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-id="sovkino" tvg-logo="http://epg.one/img2/sovkino.png" group-title="07 Фильмы и сериалы" ,Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="khit" tvg-logo="http://epg.one/img2/khit.png" group-title="07 Фильмы и сериалы", Хит
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:-1 tvg-id="karusel-pl2" tvg-logo="http://epg.one/img2/karusel-pl2.png" group-title="08 Мультики", Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="http://epg.one/img2/mult.png" group-title="08 Мультики", Мульт
+http://86.57.209.210/Mult/index.m3u8
+#EXTINF:-1 tvg-id="multimania" tvg-logo="http://epg.one/img2/multimania.png" group-title="08 Мультики", Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="http://epg.one/img2/solnce.png" group-title="08 Мультики", Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="ani" tvg-logo="http://epg.one/img2/ani.png" group-title="08 Мультики", Ani
+http://176.118.197.125/Ani/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="http://epg.one/img2/nickelodeon-ru.png" group-title="08 Мультики", Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img2/cartoon-network.png" group-title="08 Мультики", Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="http://epg.one/img2/2na2.png" group-title="08 Мультики", 2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="http://epg.one/img2/2na2-pl2.png" group-title="08 Мультики", 2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="http://epg.one/img2/2na2-pl4.png" group-title="08 Мультики", 2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl7" tvg-logo="http://epg.one/img2/2na2-pl7.png" group-title="08 Мультики", 2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img2/boomerang.png" group-title="08 Мультики" ,Boomerang
+http://176.118.197.125/Boomerang/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="http://epg.one/img2/cartoon-classics.png" group-title="08 Мультики" ,Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="jimjam" tvg-logo="http://epg.one/img2/jimjam.png" group-title="08 Мультики" ,JimJam
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 tvg-id="kidstv" tvg-logo="http://epg.one/img2/kidstv.png" group-title="08 Мультики", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="tiji" tvg-logo="http://epg.one/img2/tiji.png" group-title="08 Мультики", TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="http://epg.one/img2/detkinoint-tviksel.png" group-title="08 Мультики", Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="http://epg.one/img2/ginger-hd.png" group-title="08 Мультики", Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel-pl4" tvg-logo="http://epg.one/img2/karusel-pl4.png" group-title="08 Мультики", Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-pl7" tvg-logo="http://epg.one/img2/karusel-pl7.png" group-title="08 Мультики", Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://epg.one/img2/karusel-int.png" group-title="08 Мультики", Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="liova" tvg-logo="http://epg.one/img2/liova.png" group-title="08 Мультики", Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1 tvg-id="mama" tvg-logo="http://epg.one/img2/mama.png" group-title="08 Мультики", Мама
+http://176.118.197.125/Mama/index.m3u8
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="http://epg.one/img2/pingvin-lolo.png" group-title="08 Мультики", Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="http://epg.one/img2/radost-moya.png" group-title="08 Мультики", Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="http://epg.one/img2/ryzhy.png" group-title="08 Мультики", Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="http://epg.one/img2/smotrim-100-detskoe.png" group-title="08 Мультики" ,Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-id="solnce-pl2" tvg-logo="http://epg.one/img2/solnce-pl2.png" group-title="08 Мультики", Солнце (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 tvg-id="solnce-pl4" tvg-logo="http://epg.one/img2/solnce-pl4.png" group-title="08 Мультики", Солнце (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 tvg-id="solnce-pl7" tvg-logo="http://epg.one/img2/solnce-pl7.png" group-title="08 Мультики", Солнце (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",2012 [США/2009]
+http://dmitry-tv.ddns.net/hls/film/2012.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",47 ронинов [США/2013]
+http://dmitry-tv.ddns.net/hls/film/47RONINOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Doom [США/2005]
+http://dmitry-tv.ddns.net/hls/film/DOOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Tomb Raider. Лара Крофт [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Агент Джонни Инглиш [США/2003]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Агент Джонни Инглиш: Перезагрузка [США/2011]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Альфа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ALFA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/AMULET.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Амундсен [США/2019]
+http://dmitry-tv.ddns.net/hls/film/AMUNDSEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ангелы Чарли [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI_2019.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ангелы Чарли 2: Только вперед [США/2003]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Аниара: Космическая обитель [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Анна [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANNA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Астрал 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Астрал 3 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Астрал 4: Последний ключ [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL4.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Атака Юрского периода [США/2012]
+http://dmitry-tv.ddns.net/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Аферисты Дик и Джейн [США/2005]
+http://dmitry-tv.ddns.net/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бабушка лёгкого поведения [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бамблби [США/2018]
+http://dmitry-tv.ddns.net/hls/film/BAMBLBI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Банда Келли [США/2003]
+http://dmitry-tv.ddns.net/hls/film/BANDA_KELLI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Батарейки не прилагаются [США/1987]
+http://dmitry-tv.ddns.net/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бегущий по лезвию 2049 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Белоснежка и охотник [США/2012]
+http://dmitry-tv.ddns.net/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бесконечность [США/2021]
+http://dmitry-tv.ddns.net/hls/film/BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бетховен [США/1992]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бетховен 2 [США/1993]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бладшот [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BLADSHOT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Боевой робот номер 4 [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BOEVOY_ROBOT_N4.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Братья Гримм [США/2005]
+http://dmitry-tv.ddns.net/hls/film/BRATYA_GRIMM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бросок кобры [США/2009]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Бросок кобры 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",В земле [ВЕЛИКОБРИТАНИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/V_ZEMLE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",В ночи [США/1985]
+http://dmitry-tv.ddns.net/hls/film/V_NOCHI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",В осаде [США/1992]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",В осаде 2: Темная территория [США/1995]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Валериан и город тысячи планет [США/2017]
+http://dmitry-tv.ddns.net/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ван Хельсинг [США/2004]
+http://dmitry-tv.ddns.net/hls/film/VAN_HELSING.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Великолепная семёрка [США/2016]
+http://dmitry-tv.ddns.net/hls/film/VELIKOLEPNAYA7.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Веном [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VENOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Вий [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/VIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Вирус страха [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VIRUS_STRAHA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Водный мир [США/1995]
+http://dmitry-tv.ddns.net/hls/film/VODNYI_MIR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Возвращение в Голубую лагуну [США/1991]
+http://dmitry-tv.ddns.net/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Возмездие [США/2010]
+http://dmitry-tv.ddns.net/hls/film/VOZMEZDIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Война миров [США/2005]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Война миров Z [США/2013]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV_Z.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Восточный ветер [ГЕРМАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Восточный ветер 2 [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER4.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Время [США/2021]
+http://dmitry-tv.ddns.net/hls/film/VREMYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Время первых [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VREMYA_PERVYH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Все ждут Рождество: Люси против Крампуса [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Выживший [США/2015]
+http://dmitry-tv.ddns.net/hls/film/VYZHIVSHIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Выкрутасы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/VYKRUTASY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Гагарин. Первый в космосе [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Где-то во времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/GDETO_VO_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Гемини [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GEMINI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Геракл: Начало легенды [США/2014]
+http://dmitry-tv.ddns.net/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Герой [КИТАЙ/2002]
+http://dmitry-tv.ddns.net/hls/film/GEROY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Голодные игры [США/2012]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Голодные игры: И вспыхнет пламя [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Голодный кролик атакует [США/2011]
+http://dmitry-tv.ddns.net/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Горец [ВЕЛИКОБРИТАНИЯ/1986]
+http://dmitry-tv.ddns.net/hls/film/GORETS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
+http://dmitry-tv.ddns.net/hls/film/GORETS2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
+http://dmitry-tv.ddns.net/hls/film/GORETS3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Гори. гори ясно [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GORI_GORI_YASNO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Гороскоп на удачу [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/GOROSKOP_NA_UDACHU.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Гравитация [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GRAVITACIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Двое: я и моя тень [США/1995]
+http://dmitry-tv.ddns.net/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Двухсотлетний человек [США/1999]
+http://dmitry-tv.ddns.net/hls/film/200LETNIY_CHELOVEK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Девушка в поезде [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_V_POEZDE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Девушка. которая застряла в паутине [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Демон внутри [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEMON_VNUTRI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",День выборов [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/DEN_VYBOROV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Детсадовский полицейский [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Детские игры 2 [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Детские игры 3 [США/1991]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джек Ричер [США/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джек Ричер 2: Никогда не возвращайся [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джиперс Криперс [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DZHIPERS_KRIPERS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джон Уик 2 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джон Уик 3 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джуманджи: Новый уровень [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Джунгли [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHUNGLI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дивергент [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дивергент. глава 2: Инсургент [США/2015]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT2_INSURGENT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дивергент. глава 3: За стеной [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT3_ZA_STENOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дитя робота [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DITYA_ROBOTA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дитя человеческое [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DITYA_CHELOVECHESKOE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Добро пожаловать в Зомбилэнд! [США/2009]
+http://dmitry-tv.ddns.net/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дом большой мамочки [США/2000]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дом большой мамочки 2 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дом напротив [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DOM_NAPROTIV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Доспехи бога: В поисках сокровищ [КНР/США/2017]
+http://dmitry-tv.ddns.net/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дракула [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DRAKULA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дракулов [РОССИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/DRAKULOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Другие [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DRUGIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Другой мир [США/2003]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Другой мир 2: Эволюция [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Другой мир. Войны крови [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Другой мир. Восстание ликанов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Дюна [США/1984]
+http://dmitry-tv.ddns.net/hls/film/DYUNA_1984.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Его собачье дело [США/2016]
+http://dmitry-tv.ddns.net/hls/film/EGO_SOBACHE_DELO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/ELKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки 1914 [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI1914.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки 2 [РОССИЯ/2011]
+http://dmitry-tv.ddns.net/hls/film/ELKI2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки 3 [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/ELKI3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки 5 [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ELKI5.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки лохматые [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI_LOHMATYE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ёлки новые [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ELKI_NOVYE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Женщина в черном [КАНАДА/2012]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Живое [США/2017]
+http://dmitry-tv.ddns.net/hls/film/ZHIVOE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Заклинание [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZAKLINANIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Затерянный мир [США/2009]
+http://dmitry-tv.ddns.net/hls/film/ZATERYANNY_MIR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Затура: Космическое приключение [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Защитники [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ZASHITNIKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Звонок 2 [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZVONOK2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Зелёная миля [США/1999]
+http://dmitry-tv.ddns.net/hls/film/ZELYONAYA_MILYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Зелёный Шершень [США/2011]
+http://dmitry-tv.ddns.net/hls/film/ZELENY_SHERSHEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Зеркала [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Зеркала: Инкарнация [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA_INKARNATSIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Злой дух [КАНАДА/2017]
+http://dmitry-tv.ddns.net/hls/film/ZLOY_DUH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Знакомьтесь: Дэйв [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZNAKOMTES_DEYV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Игра Эндера [США/2013]
+http://dmitry-tv.ddns.net/hls/film/IGRA_ENDERA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Инкассатор [США/2009]
+http://dmitry-tv.ddns.net/hls/film/INKASSATOR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Инопланетянин [США/1982]
+http://dmitry-tv.ddns.net/hls/film/INOPLANETYANIN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Иностранец [США/2017]
+http://dmitry-tv.ddns.net/hls/film/INOSTRANETZ.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Интерстеллар [США/2014]
+http://dmitry-tv.ddns.net/hls/film/INTERSTELLAR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Искусственный разум [США/2001]
+http://dmitry-tv.ddns.net/hls/film/ISKUSSTVENNY_RAZUM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Исчезнувшая [США/2014]
+http://dmitry-tv.ddns.net/hls/film/ISCHEZNUVSHAYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Каникулы президента [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_PREZIDENTA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Каникулы строгого режима [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Капкан [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Капкан времени [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Каратэ-пацан [КНР/США/2010]
+http://dmitry-tv.ddns.net/hls/film/KARATE_PATSAN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Кинг Конг [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KING_KONG.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Кладбище домашних животных [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Кловерфилд 10 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/KLOVERFILD.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Книга Илая [США/2010]
+http://dmitry-tv.ddns.net/hls/film/KNIGAILAYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Когда звонит незнакомец [США/2006]
+http://dmitry-tv.ddns.net/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Код апокалипсиса [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/KOD_APOKALIPSISA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Континуум [США/2014]
+http://dmitry-tv.ddns.net/hls/film/KONTINUUM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Короли улиц [США/2008]
+http://dmitry-tv.ddns.net/hls/film/KOROLI_ULITS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Космос [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/KOSMOS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Красотки в бегах [США/2015]
+http://dmitry-tv.ddns.net/hls/film/KRASOTKI_V_BEGAH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Крик [США/1996]
+http://dmitry-tv.ddns.net/hls/film/KRIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Крик 2 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Крик 3 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Кукла 2: Брамс [США/2020]
+http://dmitry-tv.ddns.net/hls/film/KUKLA2_BRAMS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Курьер из Рая [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/KURER_IZ_RAYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лара Крофт: Расхитительница гробниц [США/2001]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Легенда Зорро [США/2005]
+http://dmitry-tv.ddns.net/hls/film/LEGENDA_ZORRO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Легион [США/2010]
+http://dmitry-tv.ddns.net/hls/film/LEGION.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ледокол [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/LEDOKOL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ледяной капкан [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LEDYANOY_KAPKAN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лекарство от здоровья [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лемони Сникет. 33 несчастья [США/2004]
+http://dmitry-tv.ddns.net/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лес самоубийц [США/2015]
+http://dmitry-tv.ddns.net/hls/film/LES_SAMOUBIYTS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ловец снов [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LOVETS_SNOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ловушка времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LOVUSHKA_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лучший стрелок [США/1986]
+http://dmitry-tv.ddns.net/hls/film/LUCHSHIY_STRELOK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Лэйк Плэсид: Озеро страха [США/1999]
+http://dmitry-tv.ddns.net/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Люди в черном [США/1997]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Люди в черном. Интернэшнл [США/2019]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM_INT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",мама! [США/2017]
+http://dmitry-tv.ddns.net/hls/film/MAMA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мара. Пожиратель снов [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MARA_POZHIRATEL_SNOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Матрица [США/1999]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Матрица: Перезагрузка [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Матрица: Революция [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мачете [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MACHETE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мачете убивает [США/2013]
+http://dmitry-tv.ddns.net/hls/film/MACHETE_UBIVAET.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Машина [ВЕЛИКОБРИТАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/MASHINA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Медальон [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MEDALON.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Метро [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/METRO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Механик [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MEHANIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мир Юрского периода [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MIR_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима [США/1996]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима 2 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима 3 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима: Племя изгоев [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима: Последствия [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия невыполнима: Протокол Фантом [США/2011]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Миссия Серенити [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_SERENITI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Монстро [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MONSTRO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Морпехи [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MORPEHI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Морские паразиты [США/2019]
+http://dmitry-tv.ddns.net/hls/film/MORSKIE_PARAZITY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Морской бой [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MORSKOY_BOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Моя ужасная няня [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Моя ужасная няня 2 [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мумия [США/1999]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мумия возвращается [США/2001]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мумия: Гробница Императора Драконов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Мышиная охота [США/1997]
+http://dmitry-tv.ddns.net/hls/film/MYSHINAYA_OHOTA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",На крючке [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NA_KRYUCHKE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",На пятьдесят оттенков темнее [США/2017]
+http://dmitry-tv.ddns.net/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Назад в будущее 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/NAZAD_V_BUDUSHEE2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Нападение на 13-й участок [США/2005]
+http://dmitry-tv.ddns.net/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Напарник [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/NAPARNIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Наша Russia: Яйца судьбы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Невезучие [США/2003]
+http://dmitry-tv.ddns.net/hls/film/NEVEZUCHIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Невероятный Халк [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEVEROYATNY_HALK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Невидимка [США/2000]
+http://dmitry-tv.ddns.net/hls/film/NEVIDIMKA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Незваные [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEZVANYE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Нечто [США/2011]
+http://dmitry-tv.ddns.net/hls/film/NECHTO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Никто [США/2021]
+http://dmitry-tv.ddns.net/hls/film/NIKTO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Новый Человек-паук: Высокое напряжение [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ной [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Обитаемый остров [РОССИЯ/2008]
+http://dmitry-tv.ddns.net/hls/film/OBITAEMY_OSTROV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Обитель теней [ИСПАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/OBITEL_TENEY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Обливион [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OBLIVION.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Образцовый самец 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OBRAZTSOVY_SAMETS2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Омерзительная восьмерка [США/2015]
+http://dmitry-tv.ddns.net/hls/film/OMERZITELNAYA_8.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Он - дракон [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/ON_DRAKON.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Оружейный барон [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ORUZHEYNY_BARON.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Особое мнение [США/2002]
+http://dmitry-tv.ddns.net/hls/film/OSOBOE_MNENIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Остров головорезов [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_GOLOVOREZOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Остров проклятых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/OP.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Остров фантазий [США/2020]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_FANTAZIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",От заката до рассвета [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Отмель [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OTMEL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Отрыв [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/OTRYV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Отчаянный [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OTCHAYANNY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Охотники [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Охотники за привидениями 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Охотники на ведьм [США/2012]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_NA_VEDM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Охранник [США/2006]
+http://dmitry-tv.ddns.net/hls/film/OHRANNIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пакт [США/2011]
+http://dmitry-tv.ddns.net/hls/film/PAKT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пакт 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PAKT2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Паразиты [КОРЕЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PARAZITY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Парк Юрского периода [США/1993]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Парк Юрского периода 2: Затерянный мир [США/1997]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Парк Юрского периода 3 [США/2001]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пассажир [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIR.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пассажиры [США/2016]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIRY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Патриот [США/2000]
+http://dmitry-tv.ddns.net/hls/film/PATRIOT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Патруль времени [КИТАЙ/2010]
+http://dmitry-tv.ddns.net/hls/film/PATRUL_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Перспектива [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PERSPEKTIVA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пес под прикрытием [США/2019]
+http://dmitry-tv.ddns.net/hls/film/PES_POD_PRIKRYTIEM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
+http://dmitry-tv.ddns.net/hls/film/PIANIST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пиковая дама: Зазеркалье [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пиксели [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PIKSELI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пипец 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PIPETS2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Плохие парни навсегда [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Повелитель стихий [США/2010]
+http://dmitry-tv.ddns.net/hls/film/POVELITEL_STIHIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Поворот не туда: Наследие [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Поезд в Пусан [КОРЕЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/POEZDVPUSAN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Поиск [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POISK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пол: Секретный материальчик [США/2011]
+http://dmitry-tv.ddns.net/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Полночь на злаковом поле [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Полтергейст [США/2015]
+http://dmitry-tv.ddns.net/hls/film/POLTERGEYST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Помешанный на времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POMESHANNY_NA_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Портал [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PORTAL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",После нашей эры [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLE_NASHEY_ERY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Последний киногерой [США/1993]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_KINOGEROY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Последний рубеж [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_RUBEZH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Потерянный остров [РОССИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/POTERYANNY_OSTROV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Потомство Чаки [США/2004]
+http://dmitry-tv.ddns.net/hls/film/POTOMSTVO_CHAKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Потрошители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/POTROSHITELI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Предвестники бури [США/2004]
+http://dmitry-tv.ddns.net/hls/film/PREDVESTNIKI_BURI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Представь себе [США/2008]
+http://dmitry-tv.ddns.net/hls/film/PREDSTAV_SEBE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Преступить черту [ИСПАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/PRESTUPIT_CHERTU.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Привидение [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PRIVIDENIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Призрак [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Призрак в доспехах [США/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Призрак дома на холме [США/1999]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Призрачный гонщик [США/2007]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_GONSHIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Призрачный патруль [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_PATRUL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пришелец [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PRISHELEC.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пришельцы на чердаке [США/2009]
+http://dmitry-tv.ddns.net/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пробуждающая совесть [ДАНИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проводник [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PROVODNIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Прогулка среди могил [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PSM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проклятие [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проклятие Спящей красавицы [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проклятие: Кукла ведьмы [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проклятие: Обитель смерти [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Проклятый дом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATY_DOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Птичка на проводе [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PTICHKA_NA_PROVODE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PUSHKI_AKIMBO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Разлом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Разлом времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Расправа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASPRAVA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Рассказы Русалочки [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASSKAZY_RUSALOCHKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ремнант: Всё ещё вижу тебя [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Репродукция [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REPRODUKCIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Робин Гуд [США/2010]
+http://dmitry-tv.ddns.net/hls/film/ROBIN_GUD.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Робот по имени Чаппи [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Русалка на суше [США/2019]
+http://dmitry-tv.ddns.net/hls/film/RUSALKA_NA_SUSHE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Рыжая Соня [США/1985]
+http://dmitry-tv.ddns.net/hls/film/RYZHAYA_SONYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",С меня хватит [США/2002]
+http://dmitry-tv.ddns.net/hls/film/S_MENYA_HVATIT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Салют-7 [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SALYUT7.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Святые из Бундока 2. День всех святых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сделка с дьяволом [США/2006]
+http://dmitry-tv.ddns.net/hls/film/SDELKA_S_DYAVOLOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Седьмой сын [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/7_SYN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сердце из стали [КИТАЙ/2017]
+http://dmitry-tv.ddns.net/hls/film/SERDCE_IZ_STALI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сингулярность [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SINGULYARNOST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Синяя бездна 2 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/SINYAYA_BEZDNA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сквозь снег [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SKVOZ_SNEG.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Слендермен [США/2018]
+http://dmitry-tv.ddns.net/hls/film/SLENDERMEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Смоки и Бандит [США/1977]
+http://dmitry-tv.ddns.net/hls/film/SMOKI_I_BANDIT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Смокинг [США/2002]
+http://dmitry-tv.ddns.net/hls/film/SMOKING.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Снеговик [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SNEGOVIK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Снегурочка против всех [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сокровище Амазонки [США/2003]
+http://dmitry-tv.ddns.net/hls/film/SOKROVISHE_AMAZONKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Соник в кино [США/2020]
+http://dmitry-tv.ddns.net/hls/film/SONIC_V_KINO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SPASATELI_MALIBU.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сплит [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SPLIT.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Стартрек: Бесконечность [США/2016]
+http://dmitry-tv.ddns.net/hls/film/STARTREK_BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Столкновение с бездной [США/1998]
+http://dmitry-tv.ddns.net/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Сторожевая застава [УКРАИНА/2017]
+http://dmitry-tv.ddns.net/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Страна призраков [ФРАНЦИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/STRANA_PRIZRAKOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Страшно красив [США/2011]
+http://dmitry-tv.ddns.net/hls/film/STRASHNO_KRASIV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Судная ночь 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Судная ночь 3 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Судная ночь навсегда [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Супер Такса [США/2015]
+http://dmitry-tv.ddns.net/hls/film/SUPER_TAKSA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/SUPERGEROI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Тёмная башня [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TEMNAYA_BASHNYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Терминатор. Да придет спаситель [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Терминатор: Генезис [США/2015]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_GENEZIS.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Территория [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/TERRITORIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Титан [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TITAN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трансформеры [США/2007]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трансформеры 2: Месть падших [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трансформеры 3: Темная сторона Луны [США/2011]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY3.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трансформеры 4: Эпоха истребления [США/2014]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY4.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трансформеры 5: Последний рыцарь [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY5.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Тренер Картер [США/2005]
+http://dmitry-tv.ddns.net/hls/film/TRENER_KARTER.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Третий лишний [США/2012]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Третий лишний 2 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Три метра над уровнем неба [ИСПАНИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Трудная мишень [США/1993]
+http://dmitry-tv.ddns.net/hls/film/TRUDNAYA_MISHEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Тысяча слов [США/2009]
+http://dmitry-tv.ddns.net/hls/film/1000SLOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Убить Билла [США/2003]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Убить Билла 2 [США/2004]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ужас Амитивилля [США/2005]
+http://dmitry-tv.ddns.net/hls/film/UZHAS_AMITIVILLYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ужастики [США/2015]
+http://dmitry-tv.ddns.net/hls/film/UZHASTIKI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ускорение [США/2015]
+http://dmitry-tv.ddns.net/hls/film/USKORENIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Факультет [США/1998]
+http://dmitry-tv.ddns.net/hls/film/FAKULTET.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Фантом [РОССИЯ/США/2011]
+http://dmitry-tv.ddns.net/hls/film/FANTOM.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Форсаж 9 [США/2021]
+http://dmitry-tv.ddns.net/hls/film/FORSAZH9.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Халк [США/2003]
+http://dmitry-tv.ddns.net/hls/film/HALK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Химера [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HIMERA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хоббит: Битва пяти воинств [США/2014]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хоббит: Нежданное путешествие [США/2012]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хоббит: Пустошь Смауга [США/2013]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хранители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HRANITELI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хранитель времени [США/2011]
+http://dmitry-tv.ddns.net/hls/film/HRANITEL_VREMENI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хроники Риддика [США/2004]
+http://dmitry-tv.ddns.net/hls/film/HRONIKI_RIDDIKA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Хэнкок [США/2008]
+http://dmitry-tv.ddns.net/hls/film/HENKOK.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Царь скорпионов [США/2002]
+http://dmitry-tv.ddns.net/hls/film/TSAR_SKORPIONOV.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Человек из стали [США/2013]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_IZ_STALI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Человек на Луне [США/2018]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_NA_LUNE.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Человек-паук. Возвращение домой [США/2017]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Человек-паук: Вдали от дома [США/2019]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Челюсти [США/1975]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Челюсти 2 [США/1978]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Черепашки-ниндзя [США/2014]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Черепашки-ниндзя 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA2.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Черная дыра [США/2000]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_DYRA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Черная молния [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_MOLNIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Четыре пера [США/2002]
+http://dmitry-tv.ddns.net/hls/film/CHETYRE_PERA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Шальная карта [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SHALNAYA_KARTA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Шестой день [США/2000]
+http://dmitry-tv.ddns.net/hls/film/6_DEN.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Школа выживания [США/2008]
+http://dmitry-tv.ddns.net/hls/film/SHKOLA_VYZHIVANIYA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Штурм Белого дома [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SHTURM_BELOGO_DOMA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Эван Всемогущий [США/2007]
+http://dmitry-tv.ddns.net/hls/film/EVAN_VSEMOGUSHIY.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Эксперимент: Зло [США/2013]
+http://dmitry-tv.ddns.net/hls/film/EKSPERIMENT_ZLO.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Ю-571 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/YU_571.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Я легенда [США/2007]
+http://dmitry-tv.ddns.net/hls/film/YA_LEGENDA.m3u8
+#EXTINF:-1 group-title="09 VOD Фильмы",Я. Франкенштейн [США/2013]
+http://dmitry-tv.ddns.net/hls/film/YA_FRANKENSHTEYN.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/BARASHEK_SHON.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Босс-молокосос 2 [МУЛЬТ/США/2021]
+http://dmitry-tv.ddns.net/hls/multfilm/BOSS_MOLOKOSOS2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/VOLKI_I_OVTSY.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/VOLKI_I_OVTSY_HOD_SVINEY.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/DIKIE_PREDKI.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]
+http://dmitry-tv.ddns.net/hls/multfilm/DOBRYNYANIKITICH_I_ZMEY_GORYNYCH.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK3.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/multfilm/ILYAMUROMEC_I_SOLOVEY_RAZBOYNIK.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]
+http://dmitry-tv.ddns.net/hls/multfilm/KOROLEVSKIY_KORGI.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Кот в сапогах [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/KOT_V_SAPOGAH.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Кот Гром и заколдованный дом [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/KOT_GROM_I_ZAKOLDOVANNY_DOM.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Мадагаскар [МУЛЬТ/США/2005]
+http://dmitry-tv.ddns.net/hls/multfilm/MADAGASKAR.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Монстры на каникулах [МУЛЬТ/США/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/MONSTRY_NA_KANIKULAH.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
+http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Ранго [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/RANGO.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/ROBINZON_KRUZO.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Рок Дог [МУЛЬТ/США/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/ROK_DOG.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
+http://dmitry-tv.ddns.net/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Смурфики 2 [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Снежная королева [МУЛЬТ/РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Спирит Непокорный [МУЛЬТ/США/2021]
+http://dmitry-tv.ddns.net/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/STAN_LEGENDOY.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Человек-паук. Через вселенные [МУЛЬТ/США/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Шрэк [МУЛЬТ/США/2001]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Шрэк 2 [МУЛЬТ/США/2004]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK2.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Шрэк третий [МУЛЬТ/США/2007]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK_TRETIY.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Эмоджи фильм [МУЛЬТ/США/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/EMODZHI_FILM.m3u8
+#EXTINF:-1 group-title="10 VOD Мультфильмы",Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/ERNEST_I_SELESTINA.m3u8
+#EXTINF:-1 group-title="02 Русские",Россия К
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="02 Русские",ТВЦ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="02 Русские",СПАС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="02 Русские",МУЗ ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="05 Новости",Всё ТВ HD
+http://dmitry-tv.ddns.net/hls/zabava/CH_VSETVHD.m3u8
+#EXTINF:-1 group-title="11 Региональные",Москва 24 (Москва)
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
+#EXTINF:-1 group-title="11 Региональные",360° (Братск)
+http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_360_BRATSK.m3u8
+#EXTINF:-1 group-title="11 Региональные",ТНВ Татарстан (Казань)
+http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TNVT.m3u8
+#EXTINF:-1 group-title="11 Региональные",ТНВ Планета (Казань)
+http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TNVPLANETA.m3u8
+#EXTINF:-1 group-title="11 Региональные",ШАЯН (Казань)
+http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_SHAYANTV_KZN.m3u8
+#EXTINF:-1 group-title="11 Региональные",Майдан (Казань)
+http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_MAIDAN.m3u8
+#EXTINF:-1 group-title="11 Региональные",TMTV (Казань)
+http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TMTV.m3u8
+#EXTINF:-1 group-title="11 Региональные",12 канал HD (Омск)
+http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_12CHANNELHD.m3u8
+#EXTINF:-1 group-title="11 Региональные",Енисей HD (Красноярск)
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
+#EXTINF:-1 group-title="11 Региональные",ОТВ HD (Екатеринбург)
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_OTVHD.m3u8
+#EXTINF:-1 tvg-id="1hd" tvg-logo="http://epg.one/img2/1hd.png" group-title="12 Музыкальные",1HD Music
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="http://epg.one/img2/bridge-tv-dance.png" group-title="12 Музыкальные",Bridge TV Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 tvg-id="hit-tv" tvg-logo="http://epg.one/img2/hit-tv.png" group-title="12 Музыкальные",HIT TV • Музыка
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 tvg-id="kuraj" tvg-logo="http://epg.one/img2/kuraj.png" group-title="12 Музыкальные",Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="matur-tv" tvg-logo="http://epg.one/img2/matur-tv.png" group-title="12 Музыкальные",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="maydan" tvg-logo="http://epg.one/img2/maydan.png" group-title="12 Музыкальные",Майдан
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="http://epg.one/img2/muzsoyuz.png" group-title="12 Музыкальные",МузСоюз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img2/muztv.png" group-title="12 Музыкальные",Муз-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="muztv-pl2" tvg-logo="http://epg.one/img2/muztv-pl2.png" group-title="12 Музыкальные",Муз-ТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="muztv-pl4" tvg-logo="http://epg.one/img2/muztv-pl4.png" group-title="12 Музыкальные",Муз-ТВ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="muztv-pl7" tvg-logo="http://epg.one/img2/muztv-pl7.png" group-title="12 Музыкальные",Муз-ТВ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="http://epg.one/img2/muzyka-pervogo.png" group-title="12 Музыкальные",Музыка Первого
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+#EXTINF:-1 tvg-id="ocko-cz" tvg-logo="http://epg.one/img2/ocko-cz.png" group-title="12 Музыкальные",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-id="ocko-star-cz" tvg-logo="http://epg.one/img2/ocko-star-cz.png" group-title="12 Музыкальные",Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="http://epg.one/img2/radio-shanson.png" group-title="12 Музыкальные",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="http://epg.one/img2/retro-music-cz.png" group-title="12 Музыкальные",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="http://epg.one/img2/russian-musicbox.png" group-title="12 Музыкальные",Russian MusicBox
+http://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img2/shanson-tv.png" group-title="12 Музыкальные",Шансон-TB
+http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MjQ5MzM2MywiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxODg4NTYzLCJzZXNzaW9uX2lkIjoiMWZkYTk2MTk2YTg1ZWIzZGNmOGQ0ZTQwZTAwMGUxNjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X5Tot_pBMjpV11rAD10aqBLkm168F46YX69qAQENQoI
+#EXTINF:-1 tvg-id="tmtv" tvg-logo="http://epg.one/img2/tmtv.png" group-title="12 Музыкальные",TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 tvg-id="toy-duman" tvg-logo="http://epg.one/img2/toy-duman.png" group-title="12 Музыкальные",Той Думан
+http://sc.id-tv.kz/ToiDuman.m3u8
+#EXTINF:-1 tvg-id="trace-urban" tvg-logo="http://epg.one/img2/trace-urban.png" group-title="12 Музыкальные",Trace Urban
+http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="tugan-tel" tvg-logo="http://epg.one/img2/tugan-tel.png" group-title="12 Музыкальные",Туган Тел
+http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img2/viva-rus.png" group-title="12 Музыкальные",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="vostok-tv" tvg-logo="http://epg.one/img2/vostok-tv.png" group-title="12 Музыкальные",Восток ТВ
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="http://epg.one/img2/zhar-ptica.png" group-title="12 Музыкальные",Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
+#EXTINF:-1 tvg-id="zhara" tvg-logo="http://epg.one/img2/zhara.png" group-title="12 Музыкальные",Жара
+http://87.76.32.36:8001/zhara
+#EXTINF:-1 group-title="12 Музыкальные",МУЗ ТВ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="12 Музыкальные",МУЗ ТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="http://epg.one/img2/national-geographic.png" group-title="13 Познавательные",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img2/nat-geo-wild.png" group-title="13 Познавательные",Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img2/moya-planeta.png" group-title="13 Познавательные",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img2/nauka-20.png" group-title="13 Познавательные",Наука 2.0
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img2/zhivaya-planeta.png" group-title="13 Познавательные",Живая планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="doktor" tvg-logo="http://epg.one/img2/doktor.png" group-title="13 Познавательные",Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 tvg-id="rtg-tv" tvg-logo="http://epg.one/img2/rtg-tv.png" group-title="13 Познавательные",RTG TV
+http://176.118.197.125/RTG-TV/index.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://epg.one/img2/ocean-tv.png" group-title="13 Познавательные",Ocean TV
+http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img2/terra-ru.png" group-title="13 Познавательные",Terra
+http://195.26.83.96:7009/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="the-explorers" tvg-logo="http://epg.one/img2/the-explorers.png" group-title="13 Познавательные",The Explorers
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="http://epg.one/img2/viasat-history.png" group-title="13 Познавательные",viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="http://epg.one/img2/zagorodny-int.png" group-title="13 Познавательные",Загородный International
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=h1iG_Hq4ZrzY5qhFYoy9Lw&e=2070623489&scheme=https
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img2/zagorodny.png" group-title="13 Познавательные",Загородный
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="http://epg.one/img2/zagorodnaya-zhizn.png" group-title="13 Познавательные",Загородная жизнь
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 tvg-id="ugra-travel" tvg-logo="http://epg.one/img2/ugra-travel.png" group-title="13 Познавательные",Ugra Travel
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
